@@ -163,6 +163,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [VPN over SSH](https://wiki.archlinux.org/title/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+- [Privacy Guides](https://www.privacyguides.org/en/tools/) If you're looking for a specific solution to something, these are the hardware and software tools we recommend in a variety of categories.
 
 
 ### VPN Subscription Services
