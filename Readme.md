@@ -714,6 +714,8 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
 - [Lux](https://github.com/iawia002/lux#readme) Lux is a fast and simple video downloader work on terminal and built with Go.
 - [Streamlink](https://streamlink.github.io/) Streamlink is a CLI utility which pipes video streams from various services into a video player
+- [ani-cli](https://github.com/pystardust/ani-cli#readme) A cli tool to browse and play anime
+- [animdl](https://github.com/justfoolingaround/animdl#readme) A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 
 
 ### Custom Google Search Engines
