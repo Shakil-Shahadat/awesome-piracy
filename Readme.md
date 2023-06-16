@@ -1270,6 +1270,8 @@ premium services
 - [Z-library](https://singlelogin.re/) - the world's largest e-book library
 - [Library Genesis](https://libgen.rs) - decentralized hosting
 - [Anna's Archive](https://annas-archive.org/) - metasearch engine
+- [Library Genesis IPFS](https://libgen-crypto.ipns.dweb.link/) - A full decentralized ebook file server
+
 
 ## Magazines
 
