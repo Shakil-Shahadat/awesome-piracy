@@ -108,6 +108,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
     - [iTunes](#itunes)
 - [Software](#software)
 - [Ebooks](#ebooks)
+- [Novels](#novels)
 - [Magazines](#magazines)
 - [Academic Papers and Material](#academic-papers-and-material)
 - [Textbooks](#textbooks)
@@ -1267,6 +1268,7 @@ premium services
 
 
 ## Ebooks
+
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
@@ -1286,6 +1288,13 @@ premium services
 - [Library Genesis](https://libgen.rs) - decentralized hosting
 - [Anna's Archive](https://annas-archive.org/) - metasearch engine
 - [Library Genesis IPFS](https://libgen-crypto.ipns.dweb.link/) - A full decentralized ebook file server
+
+
+## Novels
+- [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler#readme) An app to download novels from online sources and generate e-books.
+- [LNReader](https://github.com/LNReader/lnreader#readme) LNReader is a Tachiyomi-like, free and open source light novel reader for Android.
+- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) The Free & Open Source Android Application for reading (Light) Novels!
+- [Ranobe](https://github.com/ranobe-org/ranobe#readme) A simple extensible light novel reader
 
 
 ## Magazines
