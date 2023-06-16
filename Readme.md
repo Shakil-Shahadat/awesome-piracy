@@ -289,6 +289,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [SimpleWall](https://www.henrypp.org/product/simplewall) Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 
 
 ## Email
