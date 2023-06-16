@@ -211,6 +211,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher#readme) This extension allows you to spoof your browser "[user-agent](https://www.whatismybrowser.com/guides/the-latest-user-agent/)" string to a custom designation, making it impossible for websites to [know specific details](https://www.whatismybrowser.com/detect/what-is-my-user-agent/) about your browsing arrangement.
 - [Search by Image](https://github.com/dessant/search-by-image#readme) Search by Image is a browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines.
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.
+- [Canvas Blocker](https://addons.mozilla.org/pl/firefox/addon/canvas-blocker-no-fingerprint/) This extension protects user privacy by prevents the HTML canvas element from being used by malicious scripts for fingerprinting the user. It also available on [chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd)
 
 
 ## Userscripts
