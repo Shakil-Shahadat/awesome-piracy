@@ -704,6 +704,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 - [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
 - [Lux](https://github.com/iawia002/lux#readme) Lux is a fast and simple video downloader work on terminal and built with Go.
+- [Streamlink](https://streamlink.github.io/) Streamlink is a CLI utility which pipes video streams from various services into a video player
 
 
 ### Custom Google Search Engines
