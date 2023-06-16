@@ -888,7 +888,6 @@ premium services
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
-- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 
