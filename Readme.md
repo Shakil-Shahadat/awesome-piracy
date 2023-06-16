@@ -279,8 +279,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 - [SiriKali](https://mhogomchungu.github.io/sirikali/) SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryptfs, fscrypt and securefs based encrypted folders.
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS#readme) An alternative way to use encrypted virtual filesystems on Android that uses its own internal file explorer instead of mounting volumes.
-- [LUKS](https://gitlab.com/cryptsetup/cryptsetup) Cryptsetup is an open-source utility used to conveniently set up disk encryption based
-on the dm-crypt kernel module.
+- [LUKS](https://gitlab.com/cryptsetup/cryptsetup) Cryptsetup is an open-source utility used to conveniently set up disk encryption based on the dm-crypt kernel module.
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt#readme) Disk encryption with strong security based on TrueCrypt
 
 
