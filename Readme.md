@@ -212,6 +212,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Search by Image](https://github.com/dessant/search-by-image#readme) Search by Image is a browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines.
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.
 - [Canvas Blocker](https://addons.mozilla.org/pl/firefox/addon/canvas-blocker-no-fingerprint/) This extension protects user privacy by prevents the HTML canvas element from being used by malicious scripts for fingerprinting the user. It also available on [chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd)
+- [Stream Recorder](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm) With the Stream Recorder, you can easily save live and archived videos that are delivered in a typical HLS (m3u8) format.
 
 
 ## Userscripts
