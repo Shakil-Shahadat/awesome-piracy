@@ -206,7 +206,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
-
+- [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine#readme) A browser extension for quickly saving web pages to the Internet Archive's [Wayback Machine](https://web.archive.org/)
 
 ## Userscripts
 
