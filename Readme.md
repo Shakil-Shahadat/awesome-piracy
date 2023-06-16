@@ -34,6 +34,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
 - [Antivirus](#antivirus)
+- [Encryption](#encryption)
 - [Privacy](#privacy)
     - [Windows 10 Privacy](#windows-10-privacy)
 - [Email](#email)
@@ -272,6 +273,15 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [ESET Online Scanner](https://www.eset.com/in/home/online-scanner/) An otr scanner from ESET for Windows.
 
 **Note:** Certain malware components can only be removed in [Windows Safe Mode](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234#WindowsVersion=Windows_11).
+
+
+## Encryption
+
+- [SiriKali](https://mhogomchungu.github.io/sirikali/) SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryptfs, fscrypt and securefs based encrypted folders.
+- [DroidFS](https://github.com/hardcore-sushi/DroidFS#readme) An alternative way to use encrypted virtual filesystems on Android that uses its own internal file explorer instead of mounting volumes.
+- [LUKS](https://gitlab.com/cryptsetup/cryptsetup) Cryptsetup is an open-source utility used to conveniently set up disk encryption based
+on the dm-crypt kernel module.
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt#readme) Disk encryption with strong security based on TrueCrypt
 
 
 ## Privacy
