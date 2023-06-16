@@ -208,6 +208,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine#readme) A browser extension for quickly saving web pages to the Internet Archive's [Wayback Machine](https://web.archive.org/)
 - [LibRedirect](https://libredirect.github.io/) A web extension that redirects YouTube, Twitter, TikTok, and other websites to alternative privacy friendly frontends
 - [Stylus](https://github.com/openstyles/stylus#readme) Stylus is a Userstyles Manager and is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension
+- [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher#readme) This extension allows you to spoof your browser "[user-agent](https://www.whatismybrowser.com/guides/the-latest-user-agent/)" string to a custom designation, making it impossible for websites to [know specific details](https://www.whatismybrowser.com/detect/what-is-my-user-agent/) about your browsing arrangement.
 
 
 ## Userscripts
