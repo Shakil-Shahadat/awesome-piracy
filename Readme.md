@@ -1367,6 +1367,7 @@ premium services
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 - [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
 - [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+- [Mangal](https://github.com/metafates/mangal#readme) The most advanced CLI manga downloader in the entire universe!
 
 
 ## Documentaries
