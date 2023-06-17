@@ -1396,6 +1396,7 @@ premium services
 - [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
 - [Mangal](https://github.com/metafates/mangal#readme) The most advanced CLI manga downloader in the entire universe!
 - [Manga Reader](https://mangareader.to/) Reading manga online for free on MangaReader is as easy as searching on Google.
+- [Manganelo](https://m.manganelo.com/wwww) Search and read your favorite manga.
 
 
 ## Documentaries
