@@ -904,6 +904,7 @@ premium services
 - [Anime X Stream](https://github.com/mukul500/AnimeXStream#readme) An Android app to watch anime on your phone without ads.
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap#readme) An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [Animity](https://github.com/kl3jvi/animity#readme) An Android app to watch anime on your phone without ads.
+- [Miru](https://github.com/ThaUnknown/miru#readme) Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 
 
 #### Cartoons
