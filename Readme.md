@@ -1312,6 +1312,7 @@ premium services
 - [Ranobe](https://github.com/ranobe-org/ranobe#readme) A simple extensible light novel reader
 - [Novel MT](https://www.novelmt.com/) Read lightnovel for free
 - [Light Novel World](https://www.lightnovelworld.com/) Your fictional stories hub
+- [Panda Novel](https://www.panda-novel.com/top) A novel website with soul
 
 
 ## Magazines
