@@ -1503,7 +1503,7 @@ premium services
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file-sharing programs
 - [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
 - [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Detailed Wikipedia page about file sharing
-- [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
+- [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) :star2: Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
 - [Fopnu](https://www.fopnu.com/) Fopnu is a new and powerful P2P file sharing system.
 
