@@ -340,6 +340,7 @@ for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
 - [Stubby](https://github.com/getdnsapi/stubby) Stubby is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS). Stubby is in the early stages of development but is suitable for technical/advanced users. A more generally user-friendly version is on the way!
 - [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy#readme) A flexible DNS proxy, with support for encrypted DNS protocols.
+- [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) DNS over HTTPS/TLS
 
 
 ## Torrenting
