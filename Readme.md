@@ -181,10 +181,10 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 - [n2n](https://github.com/ntop/n2n) A light peer-to-peer VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers. To install on linux [try it](https://github.com/angristan/openvpn-install#readme)
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec. To install on linux [try it](https://github.com/angristan/wireguard-install#readme)
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
 - [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
