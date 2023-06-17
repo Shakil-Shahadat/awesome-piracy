@@ -254,6 +254,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [LessPass](https://lesspass.com/) Stateless open source password manager
 - [Psono](https://psono.com/) Open source and self-hosted password manager for teams
 - [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
+- [KeePassXC](https://keepassxc.org/) A cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 
 
 ## Antivirus
