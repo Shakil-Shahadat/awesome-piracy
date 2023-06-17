@@ -1141,6 +1141,7 @@ premium services
 - [qoob.name](http://qoob.name/) Repacker site
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+- [Dodi Repacks](https://dodi-repacks.site/) 💯: An Awesome game repacker!
 
 
 ### ROMs
