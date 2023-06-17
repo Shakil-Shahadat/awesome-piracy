@@ -1316,6 +1316,7 @@ premium services
 - [Novel MT](https://www.novelmt.com/) Read lightnovel for free
 - [Light Novel World](https://www.lightnovelworld.com/) Your fictional stories hub
 - [Panda Novel](https://www.panda-novel.com/top) A novel website with soul
+- [ReadNovelFull](https://readnovelfull.com/) Read light novel, web novel, korean novel and chinese novel online for free.
 
 
 ## Magazines
