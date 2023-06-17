@@ -1306,6 +1306,7 @@ premium services
 
 
 ## Novels
+
 - [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler#readme) An app to download novels from online sources and generate e-books.
 - [LNReader](https://github.com/LNReader/lnreader#readme) LNReader is a Tachiyomi-like, free and open source light novel reader for Android.
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) The Free & Open Source Android Application for reading (Light) Novels!
