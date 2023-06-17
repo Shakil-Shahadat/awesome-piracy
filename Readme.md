@@ -888,6 +888,7 @@ premium services
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 - [Zoro](https://zoro.to/) Dub and Sub and anime with intuitive UI.
 - [anihdplay](https://anihdplay.com/) Search and watch your favorite anime.
+- [Anime X Stream](https://github.com/mukul500/AnimeXStream#readme) An Android app to watch anime on your phone without ads.
 
 
 #### Cartoons
