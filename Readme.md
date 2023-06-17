@@ -886,6 +886,7 @@ premium services
 - [animeEncodes](https://www.animencodes.com/)
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [Zoro](https://zoro.to/) Dub and Sub and anime with intuitive UI.
 
 
 #### Cartoons
