@@ -40,7 +40,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Decentralised Networks](#decentralised-networks)
-- [Domain Names](#domain-names)
+- [Domain Privacy](#domain-privacy)
 - [Torrenting](#torrenting)
     - [Trackers](#trackers)
         - [Private Trackers](#private-trackers)
@@ -332,7 +332,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
 
-## Domain Names
+## Domain Privacy
 
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
@@ -341,6 +341,7 @@ for any IP address.
 - [Stubby](https://github.com/getdnsapi/stubby) Stubby is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS). Stubby is in the early stages of development but is suitable for technical/advanced users. A more generally user-friendly version is on the way!
 - [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy#readme) A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) DNS over HTTPS/TLS
+- [1.1.1.1: Faster & Safer Internet](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 
 
 ## Torrenting
