@@ -427,8 +427,8 @@ for any IP address.
 - [EZTV](https://eztv.re/) A torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [YTS](https://yts.mx/) Small-size HD movies from YIFY.
-- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
-- [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
+- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running.
+- [The Proxy Bay](https://proxypiratebay.github.io/) Can't access The Pirate Bay? Try one of these [proxy sites](https://github.com/proxyninja/Pirateproxy#pirate-bay-proxy-list)
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
