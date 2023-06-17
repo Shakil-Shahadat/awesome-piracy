@@ -1300,6 +1300,8 @@ premium services
 - [LNReader](https://github.com/LNReader/lnreader#readme) LNReader is a Tachiyomi-like, free and open source light novel reader for Android.
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) The Free & Open Source Android Application for reading (Light) Novels!
 - [Ranobe](https://github.com/ranobe-org/ranobe#readme) A simple extensible light novel reader
+- [Novel MT](https://www.novelmt.com/) Read lightnovel for free
+- [Light Novel World](https://www.lightnovelworld.com/) Your fictional stories hub
 
 
 ## Magazines
