@@ -902,6 +902,8 @@ premium services
 - [Zoro](https://zoro.to/) Dub and Sub and anime with intuitive UI.
 - [anihdplay](https://anihdplay.com/) Search and watch your favorite anime.
 - [Anime X Stream](https://github.com/mukul500/AnimeXStream#readme) An Android app to watch anime on your phone without ads.
+- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap#readme) An Anime Streaming Application for Android Devices to watch your favourite anime.
+- [Animity](https://github.com/kl3jvi/animity#readme) An Android app to watch anime on your phone without ads.
 
 
 #### Cartoons
