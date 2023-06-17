@@ -885,7 +885,6 @@ premium services
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 
