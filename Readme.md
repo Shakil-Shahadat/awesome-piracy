@@ -30,6 +30,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
+- [VNC](#vnc)
 - [Browser Extensions](#browser-extensions)
 - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
@@ -191,6 +192,13 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+
+
+## VNC
+
+- [Guacamole](https://github.com/apache/guacamole-server) Apache Guacamole Server
+- [TigerVNC](https://github.com/TigerVNC/tigervnc) High performance, multi-platform VNC client and server
+- [noVNC](https://github.com/novnc/noVNC) VNC client web application
 
 
 ## Browser Extensions
