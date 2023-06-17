@@ -342,6 +342,7 @@ for any IP address.
 - [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy#readme) A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) DNS over HTTPS/TLS
 - [1.1.1.1: Faster & Safer Internet](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
+- [Unstoppable Domains](https://unstoppabledomains.com/extension) Unstoppable Extension to connect to the Decentralized Web Today
 
 
 ## Torrenting
