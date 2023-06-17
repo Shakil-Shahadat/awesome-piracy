@@ -1861,6 +1861,7 @@ premium services
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 - [steambase](https://rentry.co/streambase) - Polish version of awesome-piracy
+- [Champagne](https://champagne.pages.dev/) This wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy.
 
 
 ## Contribute
