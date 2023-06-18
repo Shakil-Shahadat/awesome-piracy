@@ -1551,9 +1551,9 @@ premium services
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 - [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
-- [Szyszka](https://github.com/qarmin/szyszka#readme) Szyszka is a simple but powerful and fast bulk file renamer.
+- [Szyszka](https://github.com/qarmin/szyszka#readme) :star2: Szyszka is a simple but powerful and fast bulk file renamer.
 - [BleachBit](https://www.bleachbit.org/) Clean your system and free disk space
-- [Czkawka](https://github.com/qarmin/czkawka#readme) Multi functional app to find duplicates, empty folders, similar images etc.
+- [Czkawka](https://github.com/qarmin/czkawka#readme) :star2: Multi functional app to find duplicates, empty folders, similar images etc.
 
 
 ## Mobile Apps
