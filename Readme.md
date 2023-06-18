@@ -1873,11 +1873,12 @@ premium services
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
-- [steambase](https://rentry.co/streambase) - Polish version of awesome-piracy
+- [steambase](https://rentry.co/streambase) Polish version of awesome-piracy
 - [Champagne](https://champagne.pages.dev/) :star2: This wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy.
 - [Piracy Index](https://piracy.vercel.app/) :star2: This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
 - [MirrorAce](https://mirrorace.org/) MirrorAce is a free File Mirroring Service. It helps in uploading your files simultaneously to multiple file hosting providers.
 - [RARBG Backup](https://github.com/2004content/rarbg) Backup of magnets from RARBG
+- [Piracy megathread](https://libreddit.de/r/Piracy/wiki/megathread)
 
 
 ## Contribute
