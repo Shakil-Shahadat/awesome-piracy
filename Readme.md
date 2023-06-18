@@ -1521,6 +1521,7 @@ premium services
 - [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
 - [Av1an](https://github.com/master-of-zen/Av1an#readme) Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding
+- [JPEG XL bash converter](https://github.com/Ssmur/JPEG-XL-bash-converter#readme) Just a (very)simple converter Jpeg XL in bash.
 
 
 ## Cloud Storage
