@@ -1319,6 +1319,7 @@ premium services
 - [Light Novel World](https://www.lightnovelworld.com/) Your fictional stories hub
 - [Panda Novel](https://www.panda-novel.com/top) A novel website with soul
 - [ReadNovelFull](https://readnovelfull.com/) Read light novel, web novel, korean novel and chinese novel online for free.
+- [QuickNovel](https://github.com/LagradOst/QuickNovel#readme) Adfree FOSS Android app for downloading novels. It also functions as an Epub reader.
 
 
 ## Magazines
