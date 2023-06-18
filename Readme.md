@@ -70,7 +70,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Direct Downloads](#direct-downloads)
     - [Download Managers](#download-managers)
     - [DDL Tools](#ddl-tools)
-    - [Custom Google Search Engines](#custom-google-search-engines)
+    - [Custom Search Engines](#custom-search-engines)
     - [FTP Indexers](#ftp-indexers)
     - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers)
     - [DDL Link Sites](#ddl-link-sites)
@@ -738,7 +738,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [animdl](https://github.com/justfoolingaround/animdl#readme) A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 
 
-### Custom Google Search Engines
+### Custom Search Engines
 
 - These all do the same thing:
     - [FileChef](http://filechef.com/)
@@ -746,6 +746,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
     - [lumpySoft.com](https://lumpysoft.com/)
 - [Musgle](http://www.musgle.com/) Searches specifically for music
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
+- [SearX](https://searx.space/) SearXNG instances list
 
 
 ### FTP Indexers
