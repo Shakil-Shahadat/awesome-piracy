@@ -226,6 +226,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Stream Recorder](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm) With the Stream Recorder, you can easily save live and archived videos that are delivered in a typical HLS (m3u8) format.
 - [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) This addon provides an easy way to keep track of manifests and subtitles used by various streaming protocols. Also allows for detecting custom file types and downloading media files.
 - [Bergamot Translator](https://browser.mt/) Machine Translation done locally in your browser.
+- [Enable Right Click & Copy](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) Get The Best Browsing Experience Without Limitations And Restrictions In An Online World. Also available on [firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
 
 
 ## Userscripts
