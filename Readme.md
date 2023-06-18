@@ -228,6 +228,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Bergamot Translator](https://browser.mt/) Machine Translation done locally in your browser.
 - [Enable Right Click & Copy](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) Get The Best Browsing Experience Without Limitations And Restrictions In An Online World. Also available on [firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
 - [Youtube NonStop](https://github.com/lawfx/YoutubeNonStop#readme) Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
+- [SponsorBlock](https://sponsor.ajay.app/) Skip YouTube video sponsors
 
 
 ## Userscripts
