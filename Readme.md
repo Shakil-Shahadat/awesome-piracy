@@ -127,7 +127,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [P2P Networks](#p2p-networks)
 - [Ripping, Transcoding, Converting, Encoding](#ripping-transcoding-converting-encoding)
 - [Cloud Storage](#cloud-storage)
-- [File Renaming and Tagging](#file-renaming-and-tagging)
+- [File Renaming, Tagging and Cleaning](#file-renaming-tagging-and-cleaning)
 - [Mobile Apps](#mobile-apps)
     - [Streaming Apps](#streaming-apps)
     - [Torrent Apps](#torrent-apps)
@@ -1537,7 +1537,7 @@ premium services
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
 
 
-## File Renaming and Tagging
+## File Renaming, Tagging and Cleaning
 
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
 - [filebot-node](https://github.com/filebot/filebot-node) a client-server application that'll allow you to run filebot commands
@@ -1551,6 +1551,9 @@ premium services
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 - [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
+- [Szyszka](https://github.com/qarmin/szyszka#readme) Szyszka is a simple but powerful and fast bulk file renamer.
+- [BleachBit](https://www.bleachbit.org/) Clean your system and free disk space
+- [Czkawka](https://github.com/qarmin/czkawka#readme) Multi functional app to find duplicates, empty folders, similar images etc.
 
 
 ## Mobile Apps
