@@ -1800,6 +1800,7 @@ premium services
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+- [qrcp](https://github.com/claudiodangelis/qrcp#readme) :star2: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 
 ## Stream Synchronisation
