@@ -1520,6 +1520,7 @@ premium services
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 - [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
+- [Av1an](https://github.com/master-of-zen/Av1an#readme) Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding
 
 
 ## Cloud Storage
