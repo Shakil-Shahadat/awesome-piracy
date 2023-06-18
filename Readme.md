@@ -304,6 +304,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+- [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) DNS over HTTPS/TLS
 
 
 ### Windows 11 Privacy
