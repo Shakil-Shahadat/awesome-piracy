@@ -225,6 +225,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Canvas Blocker](https://addons.mozilla.org/pl/firefox/addon/canvas-blocker-no-fingerprint/) This extension protects user privacy by prevents the HTML canvas element from being used by malicious scripts for fingerprinting the user. It also available on [chrome](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd)
 - [Stream Recorder](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm) With the Stream Recorder, you can easily save live and archived videos that are delivered in a typical HLS (m3u8) format.
 - [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) This addon provides an easy way to keep track of manifests and subtitles used by various streaming protocols. Also allows for detecting custom file types and downloading media files.
+- [Bergamot Translator](https://browser.mt/) Machine Translation done locally in your browser.
 
 
 ## Userscripts
