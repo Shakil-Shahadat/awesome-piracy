@@ -1869,6 +1869,7 @@ premium services
 - [Champagne](https://champagne.pages.dev/) :star2: This wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy.
 - [Piracy Index](https://piracy.vercel.app/) :star2: This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
 - [MirrorAce](https://mirrorace.org/) MirrorAce is a free File Mirroring Service. It helps in uploading your files simultaneously to multiple file hosting providers.
+- [RARBG Backup](https://github.com/2004content/rarbg) Backup of magnets from RARBG
 
 
 ## Contribute
