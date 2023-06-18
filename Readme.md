@@ -286,6 +286,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Kaspersky Free Cloud Antivirus](https://www.kaspersky.co.in/downloads/free-antivirus) It is a windows antivirus with all necessary features which a AV needs. Don't forget to uncheck all boxes while installing it, specially of kasperskey program.
 - [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware(otr).
 - [ESET Online Scanner](https://www.eset.com/in/home/online-scanner/) An otr scanner from ESET for Windows.
+- [Firejail](https://github.com/netblue30/firejail#readme) Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
 
 **Note:** Certain malware components can only be removed in [Windows Safe Mode](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234#WindowsVersion=Windows_11).
 
