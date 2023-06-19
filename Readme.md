@@ -1886,6 +1886,7 @@ premium services
 - [RARBG Backup](https://github.com/2004content/rarbg) Backup of magnets from RARBG
 - [Piracy megathread](https://libreddit.de/r/Piracy/wiki/megathread)
 - [FREEMEDIAHECKYEAH](https://libreddit.nl/r/FREEMEDIAHECKYEAH/wiki/index)
+- [Piracy BG](https://rentry.org/Piracy-BG)
 
 
 ## Contribute
