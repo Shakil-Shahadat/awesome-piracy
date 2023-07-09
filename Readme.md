@@ -10,7 +10,7 @@ If you come across dead or obsolete links, please fix them by [making a pull req
 
 ## Web Version
 
-Web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
+The web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
 
 
 ## Backup
@@ -115,7 +115,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Comicbooks](#comicbooks)
 - [Manga](#manga)
 - [Documentaries](#documentaries)
-- [Fonts, Icons and Graphics](#fonts-icons-and-graphics)
+- [Fonts, Icons, and Graphics](#fonts-icons-and-graphics)
 - [Automation](#automation)
     - [TV Automation](#tv-automation)
     - [Movie Automation](#movie-automation)
@@ -169,7 +169,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
-- [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
+- [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10GB/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 
@@ -399,7 +399,6 @@ for any IP address.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.re/) A torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
-- [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.mx/) Small-size HD movies from YIFY.
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
@@ -1192,14 +1191,15 @@ premium services
 
 ### Spotify
 
-- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free.
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
-- [Spotx](https://github.com/amd64fox/SpotX) Modified Spotify Client for Windows
-- [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
+- [SpotX](https://github.com/amd64fox/SpotX) Modified Spotify Client for Windows, block ads and enable experimental features.
+- [SpotX-Bash](https://github.com/jetfir3/SpotX-Bash) SpotX for Linux and macOS, block ads and enable experimental features.
+- [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files.
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
 - [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
-- [xManager (Spotify)](https://github.com/xManager-v2/xManager-Spotify) Manager To download ad-free spotify app.
+- [xManager (Spotify)](https://github.com/xManager-v2/xManager-Spotify) Manager To download ad-free Spotify or Spotify Lite APKs for Android.
 
 
 ### iTunes
@@ -1245,11 +1245,9 @@ premium services
 
 
 ## Ebooks
-
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-- [b-ok](http://b-ok.xyz/) Free ebook library
 - [The idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks but were afraid to ask.
@@ -1261,7 +1259,9 @@ premium services
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
-
+- [Z-library](https://singlelogin.re/) - the world's largest e-book library
+- [Library Genesis](https://libgen.rs) - decentralized hosting
+- [Anna's Archive](https://annas-archive.org/) - metasearch engine
 
 ## Magazines
 
@@ -1375,7 +1375,6 @@ premium services
 
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
-- [GFxtra](https://www.gfxtra.com/) DDL links for graphics, icons, 3D models, and more
 - [GraphicEx](https://graphicex.com/) Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more
 - [Tomato.to](https://tomato.to/) Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
