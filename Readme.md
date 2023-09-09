@@ -335,6 +335,7 @@ for any IP address.
 - [Torrent Paradise](https://torrent-paradise.ml/) IPFS-based decentralised torrent search engine.
 - [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
+- [theRarbg.com](https://therarbg.com/) Great alternative and a Fork of now defunct RARBG.
 
 
 ### Trackers
