@@ -1189,6 +1189,7 @@ premium services
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
+- [ReVanced](https://revanced.app) A modified version of YouTube & YouTube Music that provides enhanced features and functionalities
 - [YouTube to MP3](https://ytformp3.com/)
 
 
