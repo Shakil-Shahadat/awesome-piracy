@@ -1010,6 +1010,7 @@ premium services
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+- [Overseerr](https://github.com/sct/overseerr) Application for managing requests for your media library.
 
 
 ### Plex Scripts and Tools
@@ -1389,6 +1390,7 @@ premium services
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
 - [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
+- [Whisparr](https://github.com/Whisparr/Whisparr) Adult movie collection manager for Usenet and BitTorrent users.
 - [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
