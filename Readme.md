@@ -148,6 +148,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [File Servers](#file-servers)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
+- [Authentication Managers](#authentication-managers)
 - [Miscellaneous](#miscellaneous)
 
 ## VPNs
@@ -1802,6 +1803,10 @@ premium services
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+
+## Authentication Managers
+
+- [authentik](https://goauthentik.io/) authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
 
 
 ## Miscellaneous
