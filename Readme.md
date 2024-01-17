@@ -1327,13 +1327,20 @@ premium services
 
 ## Audiobooks
 
-- [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
-- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
-- [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
-- [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
-- [Tokybook](https://tokybook.com/) Free audiobook streaming site.
-- [ZAudioBooks.com](https://zaudiobooks.com/)
-- [AudioBB.com](https://audiobb.com/)
+- Servers:
+    - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any PC or Android phone.
+    - [AudioBookShelf](https://www.audiobookshelf.org/) Audiobookshelf is a self-hosted audiobook and podcast server.
+    - [Kavita](https://www.kavitareader.com/) Kavita is a fast, feature rich, cross platform reading server.
+ 
+- Downloads:
+    - [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
+    - [AudioBB.com](https://audiobb.com/) Free audiobook downloads.
+    - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye.
+
+- Other:
+    - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
+    - [Tokybook](https://tokybook.com/) Free audiobook streaming site.
+    - [ZAudioBooks.com](https://zaudiobooks.com/) Free audiobook streaming site.
 
 
 ## Comicbooks
