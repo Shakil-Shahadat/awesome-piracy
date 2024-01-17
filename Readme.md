@@ -1389,7 +1389,6 @@ premium services
 
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
 - [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
