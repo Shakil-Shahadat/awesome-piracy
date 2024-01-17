@@ -1766,6 +1766,7 @@ premium services
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
 - [Resilio Sync](http://www.bittorrent.com/sync) Resilio Sync (formerly known as BTSync) is a peer-to-peer file synchronization tool.
+- [Syncthing](https://syncthing.net/) Syncthing is an open-source file synchronization client/server application, written in Go, implementing its own, equally free Block Exchange Protocol. It is an open source alternative to BTSync/Resilio Sync.
 
 
 ## File Servers
