@@ -1764,6 +1764,12 @@ premium services
 - [DBREE](https://dbree.org/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+- [Resilio Sync](http://www.bittorrent.com/sync) Resilio Sync (formerly known as BTSync) is a peer-to-peer file synchronization tool.
+
+
+## File Servers
+
+- [NextCloud](https://nextcloud.com/) NextCloud gives you universal access to your files through a web interface, i.e. your own personal Dropbox. It also provides a platform to easily view & sync your contacts, calendars and bookmarks across all your devices.
 
 
 ## Stream Synchronisation
