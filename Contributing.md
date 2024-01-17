@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - Include a description of the link you're adding if possible
 - If you're changing section headers, ensure you update the contents at the top too
 - If you're adding a new section, ensure you give it a unique name
+- No links to tools or sites focused on adult content/porn
 
 Thank you for your suggestions!
 
