@@ -536,13 +536,13 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
-- [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
+- [Scaleway Dedibox](https://www.scaleway.com/en/dedibox/) Formerly Online.net. High-performance dedicated servers.
 - [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
-- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
+- [Seedboxes.cc](https://seedboxes.cc/) :star2: Reliable and affordable web hosting, with the power of your friendly monsters! Has a full suite of installable apps, mainly focused on media server management.
 - [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
 - [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
 - [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
