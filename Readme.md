@@ -1725,6 +1725,8 @@ premium services
 
 ## Dashboards and Homepages
 
+- [Homepage](https://gethomepage.dev/latest/) A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [Homarr](https://homarr.dev/) Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
 - [Heimdall](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
 - [Organizr](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
@@ -1734,6 +1736,7 @@ premium services
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+- [starbase-80](https://github.com/notclickable-jordan/starbase-80) A nice looking homepage for Docker containers or any services and links.
 
 
 ## Proxy Sites
