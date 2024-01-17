@@ -1666,6 +1666,12 @@ premium services
 - [xdcc.eu](http://www.xdcc.eu/) XDCC search engine indexing packets from a large number of networks
 
 
+### Non-IRC Voice Chat
+
+- [Mumble](https://www.mumble.info/) Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+- [Teamspeak](https://www.teamspeak.com/en/) VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users
+
+
 ## DC++
 
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
