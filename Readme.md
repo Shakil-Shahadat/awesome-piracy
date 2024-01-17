@@ -1405,6 +1405,7 @@ premium services
 - [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
 - [Notifiarr](https://notifiarr.com/) Integrates so many of the services already mentioned here and provides tons of configurability with Discord.
 - [Prowlarr](https://wiki.servarr.com/prowlarr) Similar to Jackett but built for the popular *arr forks.
+- [Flaresolverr](https://github.com/FlareSolverr/FlareSolverr) FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection. Allows Prowlarr to search indexers that are protected with Cloudflare.
 
 
 ### TV Automation
