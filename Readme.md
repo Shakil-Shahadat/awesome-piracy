@@ -145,6 +145,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Dashboards and Homepages](#dashboards-and-homepages)
 - [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
+- [File Servers](#file-servers)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
