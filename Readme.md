@@ -865,6 +865,7 @@ premium services
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) Aniyomi is a video player and image viewer for Android 6.0 and above. Focused on anime and manga.
 
 
 #### Cartoons
@@ -1119,6 +1120,10 @@ premium services
 - [qoob.name](http://qoob.name/) Repacker site
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+- [DODI Repacks](https://dodi-repacks.site/) ([Backup](http://dodi-repacks.download/)) Repacks run by DODI Releases
+- [RePack Info](https://repack.info/) Another repack site
+
+
 
 
 ### ROMs
@@ -1226,6 +1231,7 @@ premium services
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 - [Get4Download.com](https://get4download.com/) Place to download free full versions of the latest software and audio samples for free.
+- [Microsoft Activation Scripts](https://massgrave.dev/index.html) A Windows and Office activator with a focus on open-source code and fewer antivirus detections.
 
 
 ### Adobe CC
