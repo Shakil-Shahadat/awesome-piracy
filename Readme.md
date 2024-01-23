@@ -986,7 +986,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### Plex Plugins
 
-- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
+- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin.
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS).
 - [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks.
 - [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/)).
@@ -1112,15 +1112,16 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [GameVault](https://gamevau.lt) a self-hosted gaming platform for drm-free games.
 
+
 ### Repacks
 
-- [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
-- [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
-- [qoob.name](http://qoob.name/) Repacker site
-- [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
-- [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
-- [DODI Repacks](https://dodi-repacks.site/) ([Backup](http://dodi-repacks.download/)) Repacks run by DODI Releases
-- [RePack Info](https://repack.info/) Another repack site
+- [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks.
+- [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games.
+- [qoob.name](http://qoob.name/) Repacker site.
+- [Dark Umbra](https://darkumbra.net/) Forum for sourcing games.
+- [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too.
+- [DODI Repacks](https://dodi-repacks.site/) ([Backup](http://dodi-repacks.download/)) Repacks run by DODI Releases.
+- [RePack Info](https://repack.info/) Another repack site.
 
 
 ### ROMs
