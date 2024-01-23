@@ -7,20 +7,14 @@ Please ensure that you use a blocker like [uBlock Origin](https://github.com/gor
 
 If you come across dead or obsolete links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/master/readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
-
 ## Web Version
-
 The web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
 
-
 ## Backup
-
 This repository is regularly backed up in [archive.org](https://web.archive.org/web/20220000000000*/https://github.com/Shakil-Shahadat/awesome-piracy).
-
 
 ## Emoji
 :star2: means that's a recommendation from the original author / from other people or from myself.
-
 
 ## Background Information
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
@@ -245,6 +239,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 
 ## Antivirus
+
 **[otr: one-time-run]** No need for installation, just click & run. <br>
 **Warning:** Anti-virus and anti-spyware software may sometimes generate false positives. Consider quarantining suspicious files rather than deleting them specially, if you don't want to face any functionality breakage in any application.
 
@@ -721,6 +716,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 ### DDL Link Sites
 
+
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [HDEncode.org](https://hdencode.org/)
@@ -757,6 +753,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
 - [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
 - [ReleaseHive](https://releasehive.org/)
+
 
 ### Premium Link Generators
 
@@ -1112,6 +1109,7 @@ premium services
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [GameVault](https://gamevau.lt) a self-hosted gaming platform for drm-free games
+
 
 ### Repacks
 
@@ -1810,6 +1808,7 @@ premium services
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+
 
 ## Authentication Managers
 
