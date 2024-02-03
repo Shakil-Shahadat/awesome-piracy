@@ -428,11 +428,11 @@ for any IP address.
 
 ### Tracker Aggregators
 
+- [SolidTorrents](https://solidtorrents.to/) :star2: A clean, privacy focused torrent search engine.
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
-- [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
 
 
 ### Tracker Proxies
