@@ -818,6 +818,7 @@ premium services
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
 - [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
+- [Mp4Hydra](https://mp4hydra.org) Unique design, HD server with additional hosts.
 
 
 #### Big Media Libraries
