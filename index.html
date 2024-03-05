@@ -35,11 +35,18 @@
 
 	<!-- JavaScript Library to Convert Markdown into HTML -->
 	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-	<script>
+
+    <!-- Marked plugin to add heading ID's -->
+	<script src="https://cdn.jsdelivr.net/npm/marked-gfm-heading-id/lib/index.umd.js"></script>
+    
+    <script>
 		// Basic Settings
 		const defaultTheme = 'darkly';
 		const bootswatchVersion = '5.3.1';
 		// Update last one only when https://www.jsdelivr.com/package/npm/bootswatch is updated.
+
+        // Configure marked.js to use Github heading ID's to allow the Contents list to function
+        marked.use(markedGfmHeadingId.gfmHeadingId())
 
 		// Get the markdown file, convert to HTML & put inside the main tag
 		fetch( 'https://raw.githubusercontent.com/Shakil-Shahadat/awesome-piracy/main/Readme.md' )
