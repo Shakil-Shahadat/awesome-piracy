@@ -1108,6 +1108,7 @@ premium services
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [GameVault](https://gamevau.lt) a self-hosted gaming platform for DRM-free games
+- [MCDOC](https://mcdoc.openm.tech) An Index of Minecraft Tools and Unlockers
 
 
 ### Repacks
