@@ -1109,6 +1109,7 @@ premium services
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [GameVault](https://gamevau.lt) a self-hosted gaming platform for DRM-free games
 - [Play retro games online](https://theretrosaga.com/) - Play NES/SNES/Sega/DOS/Arcade games in browser (no-setup)
+- [Play DOS games in browser](https://weplaydos.games/) - Play 150+ classic DOS games online (no-setup)
 
 
 ### Repacks
