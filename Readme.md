@@ -1110,7 +1110,7 @@ premium services
 - [GameVault](https://gamevau.lt) a self-hosted gaming platform for DRM-free games
 - [Play retro games online](https://theretrosaga.com/) - Play NES/SNES/Sega/DOS/Arcade games in browser (no-setup)
 - [Play DOS games in browser](https://weplaydos.games/) - Play 150+ classic DOS games online (no-setup)
-
+- [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers.
 
 ### Repacks
 
