@@ -935,7 +935,6 @@ premium services
 - [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [1Movies](http://1movies.nl) Openload, FServer
 - [WatchFullMovie](http://watchfullmovie.co) Openload
-- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
 - [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
