@@ -391,7 +391,6 @@ for any IP address.
 #### Public Trackers
 
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
-- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.re/) A torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [YTS](https://yts.mx/) Small-size HD movies from YIFY.
