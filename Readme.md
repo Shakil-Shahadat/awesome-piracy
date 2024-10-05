@@ -405,7 +405,6 @@ for any IP address.
 - [TorrentGalaxy](https://torrentgalaxy.to/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
-- [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
 - [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
 - [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
