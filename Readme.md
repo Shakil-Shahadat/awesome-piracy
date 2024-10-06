@@ -394,7 +394,6 @@ for any IP address.
 - [EZTV](https://eztvx.to/) A torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [YTS](https://yts.mx/) Small-size HD movies from YIFY.
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
-- [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
