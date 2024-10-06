@@ -408,7 +408,6 @@ for any IP address.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
-- [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 - [Torrenty.org](https://ex-torrenty.org/) - Polish general tracker
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
