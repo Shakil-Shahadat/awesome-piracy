@@ -403,7 +403,7 @@ for any IP address.
 - [TorrentGalaxy](https://torrentgalaxy.to/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
-- [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
+- [Pirateiro](https://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
 - [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
