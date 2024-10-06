@@ -404,7 +404,6 @@ for any IP address.
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
 - [Pirateiro](https://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
-- [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
