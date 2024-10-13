@@ -151,7 +151,8 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Authentication Managers](#authentication-managers)
-- [## General Piracy Forums](#general-piracy-forums)
+  [Other indexes](#other-indexes)
+- [General Piracy Forums](#general-piracy-forums)
 - [Miscellaneous](#miscellaneous)
 
 ## VPNs
