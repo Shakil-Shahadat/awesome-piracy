@@ -371,6 +371,7 @@ for any IP address.
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
 - [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
+- [YggTorrent](https://ygg.re/) (YGG) One of the biggest French private trackers, containing all kinds of content with always a French translation.
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
@@ -405,7 +406,6 @@ for any IP address.
 - [Pirateiro](https://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
-- [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 - [Torrenty.org](https://ex-torrenty.org/) - Polish general tracker
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 - [theRarbg.com](https://therarbg.com/) Alternative of now-defunct RARBG.
