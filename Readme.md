@@ -848,7 +848,7 @@ premium services
 - [Kissanime.com.ru](https://kissanime.com.ru/) Large cartoon collection, uses RapidVideo/Openload
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
-- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [animepahe](https://animepahe.com/) A minimalistic anime streaming/download website, subs only.
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi) Aniyomi is a video player and image viewer for Android 6.0 and above. Focused on anime and manga.
 
 
