@@ -1121,7 +1121,7 @@ premium services
 - [hShop](https://hshop.erista.me/) The ultimate 3DS content preservation service.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
 - [RetroMania.gg](https://retromania.gg/)
-- [CDRomance](https://cdromance.com/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
+- [CDRomance](https://cdromance.org/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [r/Roms](https://www.reddit.com/r/Roms/) For ROM related discussions.
 
 
