@@ -1592,6 +1592,7 @@ premium services
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
 - [ApkPure](https://apkpure.com/) Another free APK mirror site
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
+- [Platinmods](https://platinmods.com/) A lot of modded Android & iOS Games.
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
