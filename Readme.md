@@ -1236,7 +1236,7 @@ premium services
 
 ## Ebooks
 
-- [Z-library](https://singlelogin.re/) :star2: World's largest e-book library.
+- [Z-library](https://1lib.sk/) :star2: World's largest e-book library.
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
