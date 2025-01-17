@@ -166,11 +166,8 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### VPN Subscription Services
 
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
-- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10GB/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 
 ### Self-hosted VPNs
