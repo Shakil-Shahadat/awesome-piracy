@@ -1248,6 +1248,7 @@ premium services
 - [Library Genesis](https://libgen.rs) - decentralized hosting
 - [Anna's Archive](https://annas-archive.org/) - metasearch engine
 - [Zoboko.com](https://zoboko.com/)
+- [OpenChapter](https://openchapter.io/) Read free books online.
 
 
 ## Magazines
