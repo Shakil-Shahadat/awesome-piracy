@@ -1351,6 +1351,7 @@ premium services
 - [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
 - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
+- [Mihon](https://github.com/mihonapp/mihon) Free and open source manga reader for Android.
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 - [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
 - [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
