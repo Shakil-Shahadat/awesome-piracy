@@ -242,20 +242,20 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 
 ## Antivirus
-**[otr: one-time-run]** No need for installation, just click & run. <br>
+**[OTR: One-Time-Run]** No need for installation, just click & run. <br>
 **Warning:** Anti-virus and anti-spyware software may sometimes generate false positives. Consider quarantining suspicious files rather than deleting them specially, if you don't want to face any functionality breakage in any application.
 
-- [Norton Power Eraser(NPE)](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN) A tool good at repairing certain system files and functions(otr).
-- [Kaspersky Virus Removal Tool(kvrt)](https://www.kaspersky.com/downloads/free-virus-removal-tool) :star2: A tool for advanced scanning and disinfecting Windows computers(otr).
+- [Norton Power Eraser (NPE)](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN) A tool good at repairing certain system files and functions(otr).
+- [Kaspersky Virus Removal Tool (kvrt)](https://www.kaspersky.com/downloads/free-virus-removal-tool) :star2: A tool for advanced scanning and disinfecting Windows computers. (OTR)
 - [Hitman Pro](https://www.bleepingcomputer.com/download/hitmanpro/) A second opinion powerfull AV to disinfect the PC. Be sure to select one time scan option.
-- [F-Secure Online Scanner](https://www.f-secure.com/en/online-scanner) Virus scanner from F-Secure for Windows PC.(otr)
-- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) A malware scanner scanner from Microsoft.(otr)
+- [F-Secure Online Scanner](https://www.f-secure.com/en/online-scanner) Virus scanner from F-Secure for Windows PC. (OTR)
+- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) A malware scanner scanner from Microsoft. (OTR)
 - [MalwareBytes](https://www.malwarebytes.com/) "crushes malware so you are protected and your machine keeps running smoothly."
 - [VirusTotal](https://www.virustotal.com/) :star2: Web service for scanning files and URLs for viruses & malware from over 70+ AVs.
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [How to Remove Malware](https://www.wikihow.com/Remove-Malware) This is just another guide.
 - [Kaspersky Free](https://www.kaspersky.co.in/downloads/free-antivirus) It is a windows antivirus with all necessary features which a AV needs.
-- [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware(otr).
+- [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) An adware cleaner for removing unwanted programs and junkware. (OTR)
 - [ESET Online Scanner](https://www.eset.com/in/home/online-scanner/) An otr scanner from ESET for Windows.
 
 **Note:** Certain malware components can only be removed in [Windows Safe Mode](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234#WindowsVersion=Windows_11).
