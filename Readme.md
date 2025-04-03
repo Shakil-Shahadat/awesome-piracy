@@ -361,7 +361,7 @@ for any IP address.
 - [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
 - [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
 - [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
-- [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
+- [Redacted](https://redacted.sh/) (RED) Largest private music tracker at 1.5 million torrents.
 - [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
 - [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
