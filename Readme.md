@@ -1106,6 +1106,7 @@ premium services
 ### ROMs
 
 - [Vimm's Lair](https://vimm.net/?p=vault) :star2: Large collection of ROMs.
+- [EpicRoms](https://epicroms.net/) Vast collection of ROMs and ISOs for PlayStation, Nintendo, and all other consoles.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites) Wiki page from gametechwiki.com with more links.
 - [Romulation.org](https://www.romulation.org/) A collection of ~28,000 console game ROMs.
 - [MyAbandonWare](https://www.myabandonware.com/) More than 14000 old games to download for free!
