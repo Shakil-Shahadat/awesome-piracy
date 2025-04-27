@@ -1080,6 +1080,7 @@ premium services
 - [Beginners Guide to Crack Watch](https://web.archive.org/web/20181219142135/https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) Reddit post by /u/EssenseOfMagic
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
+- [RepackLab](http://repacklab.com/) GamesDl Website With Fastest Downloads, Latest Updates and Vast Library
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
@@ -1107,6 +1108,7 @@ premium services
 
 - [Vimm's Lair](https://vimm.net/?p=vault) :star2: Large collection of ROMs.
 - [EpicRoms](https://epicroms.net/) Vast collection of ROMs and ISOs for PlayStation, Nintendo, and all other consoles.
+- [RomsLab](https://romslab.com/) Free ROMs For Nitendo Switch, PlayStation and Xbox.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites) Wiki page from gametechwiki.com with more links.
 - [Romulation.org](https://www.romulation.org/) A collection of ~28,000 console game ROMs.
 - [MyAbandonWare](https://www.myabandonware.com/) More than 14000 old games to download for free!
