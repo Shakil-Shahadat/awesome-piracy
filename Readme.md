@@ -802,6 +802,7 @@ premium services
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
 - [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
 - [Mp4Hydra](https://mp4hydra.org) Unique design, HD server with additional hosts.
+- [Watchroo](https://watchroo.com) Unique design, HD server with additional hosts, built-in forum, watchlists and SSO login.
 
 
 #### Big Media Libraries
@@ -1314,7 +1315,7 @@ premium services
     - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any PC or Android phone.
     - [AudioBookShelf](https://www.audiobookshelf.org/) Audiobookshelf is a self-hosted audiobook and podcast server.
     - [Kavita](https://www.kavitareader.com/) Kavita is a fast, feature rich, cross platform reading server.
- 
+
 - Downloads:
     - [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
     - [AudioBB.com](https://audiobb.com/) Free audiobook downloads.
