@@ -1082,6 +1082,7 @@ premium services
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
 - [RepackLab](http://repacklab.com/) GamesDl Website With Fastest Downloads, Latest Updates and Vast Library
+- [SteamOra](http://steamora.net/)  SteamOra is your trusted source for pre-installed Steam games no setup, no limits, just extract and play. Free games made simple. 
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
