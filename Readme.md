@@ -1160,6 +1160,7 @@ premium services
 
 ### Music Streaming
 
+- [Monochrome](https://monochrome.tf) :star2: Alternative TIDAL frontend.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) :star2: Alternative YouTube Music frontend.
 - [Hikarinoakari](https://hikarinoakari.com/) Site with Japanese music
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
