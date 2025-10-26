@@ -1155,7 +1155,6 @@ premium services
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
-- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
 
 ### Music Streaming
