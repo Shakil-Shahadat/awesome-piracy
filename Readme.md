@@ -1167,7 +1167,6 @@ premium services
 
 ### Music Downloading
 
-- [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [Deemix](https://deemix.app/) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
 - [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
