@@ -1172,7 +1172,6 @@ premium services
 - [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-- [YouTube to MP3](https://ytformp3.com/)
 
 
 ### Spotify
