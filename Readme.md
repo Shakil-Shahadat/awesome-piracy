@@ -845,6 +845,7 @@ premium services
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site that might become the new Masterani.me. Clean interface.
 - [animepahe](https://animepahe.com/) A minimalistic anime streaming/download website, subs only.
+- [AnimeLok](https://animelok.to) A anime streaming site with multiple lanaguages support and vast content library.
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi) Aniyomi is a video player and image viewer for Android 6.0 and above. Focused on anime and manga.
 
 
