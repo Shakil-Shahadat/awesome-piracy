@@ -1517,7 +1517,7 @@ premium services
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
+- [Mihon](https://github.com/mihonapp/mihon) Mihon is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
