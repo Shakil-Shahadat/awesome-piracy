@@ -314,6 +314,8 @@ for any IP address.
 ## Torrenting
 
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
+- [BATorrent](https://github.com/Mateuscruz19/BAT-Torrent) A lightweight, open-source BitTorrent
+client. Features video streaming, WebUI, VPN kill switch, RSS auto-download,.
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
 - [magent2torrent.me](http://magnet2torrent.me/) Converts magnet links to torrent files
