@@ -151,6 +151,8 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Authentication Managers](#authentication-managers)
+  [Other indexes](#other-indexes)
+- [General Piracy Forums](#general-piracy-forums)
 - [Miscellaneous](#miscellaneous)
 
 ## VPNs
@@ -1815,6 +1817,21 @@ premium services
 
 - [authentik](https://goauthentik.io/) authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
 
+## General Piracy Forums
+
+- [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - officially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
+- [/r/privacy](https://old.reddit.com/r/Piracy/) Piracy subreddit, unfortunatly heavily restricted
+- [/c/piracy](https://lemmy.ml/c/piracy) Lemmy forum for privacy
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+- [lemmy.dbzer0.com/c/piracy](https://lemmy.dbzer0.com/c/piracy) Official r/piracy failover community
+- ~~[/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.~~
+
+## Other indexes
+
+- [reenry backup of r/piracy megathread](https://rentry.co/megathread)
+- [wiki index](https://wiki-index.pages.dev/)
+- [Surivival orientated data horading index](https://github.com/ShouldHaveSeenThat/awesome-survival)
+- [feedmediaheckyeah](https://fmhy.pages.dev/)
 
 ## Miscellaneous
 
@@ -1830,9 +1847,6 @@ premium services
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
-- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
-- [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
-- [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
