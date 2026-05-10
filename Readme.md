@@ -1101,6 +1101,7 @@ premium services
 
 - [FitGirl Repacks](https://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
 - [ElAmigos Games](https://www.elamigos-games.net/) Premium links to cracked games
+- [Spinneret Repacks](https://spinneretrepacks.qzz.io/) Indie Games Repacker
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 - [DODI Repacks](https://dodi-repacks.site/) ([Backup](http://dodi-repacks.download/)) Repacks run by DODI Releases
 - [RePack Info](https://repack.info/) Another repack site
