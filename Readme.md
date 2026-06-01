@@ -1306,7 +1306,7 @@ premium services
 - [TutSala](https://tutsala.com/tutorials/)
 - [TutsNode](https://tutsnode.net/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) Download videos from LinkedIn Learning, PluralSight, Udemy etc.
-
+- [PirateWallah](https://piratewallah.pw) Catalogue of indian educational lectures/courses from every branch of study. (frequently updated).
 
 ## Audiobooks
 
