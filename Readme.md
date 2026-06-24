@@ -224,7 +224,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ## Password Vaults
 
-- [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
