@@ -212,6 +212,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 - [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
+- [Fandom Focus](https://greasyfork.org/en/scripts/528895-fandom-focus) Restore Fandom to a clean, readable, and distraction-free layout.
 - [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) Add "View Image" button. This is a fork of the original.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
@@ -223,7 +224,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ## Password Vaults
 
-- [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
 - [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
@@ -367,7 +367,6 @@ for any IP address.
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
 - [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [YggTorrent](https://ygg.re/) (YGG) One of the biggest French private trackers, containing all kinds of content with always a French translation.
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
@@ -845,6 +844,7 @@ premium services
 - [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
 - [4anime](https://4anime.to/) A relatively new site that might become the new Masterani.me. Clean interface.
 - [animepahe](https://animepahe.com/) A minimalistic anime streaming/download website, subs only.
+- [AnimeLok](https://animelok.to) A anime streaming site with multiple lanaguages support and vast content library.
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi) Aniyomi is a video player and image viewer for Android 6.0 and above. Focused on anime and manga.
 
 
@@ -1082,6 +1082,7 @@ premium services
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
 - [RepackLab](http://repacklab.com/) GamesDl Website With Fastest Downloads, Latest Updates and Vast Library
+- [SteamOra](http://steamora.net/)  SteamOra is your trusted source for pre-installed Steam games no setup, no limits, just extract and play. Free games made simple. 
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
@@ -1121,6 +1122,7 @@ premium services
 - [RetroMania.gg](https://retromania.gg/)
 - [CDRomance](https://cdromance.org/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [r/Roms](https://www.reddit.com/r/Roms/) For ROM related discussions.
+- [SwitchGamesMall](https://www.switchgamesmall.icu/) Download Free Switch Roms (more than 11K+). 
 
 
 ### Console Games
@@ -1153,11 +1155,11 @@ premium services
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
-- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
 
 ### Music Streaming
 
+- [Monochrome](https://monochrome.tf) :star2: Alternative TIDAL frontend.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) :star2: Alternative YouTube Music frontend.
 - [Hikarinoakari](https://hikarinoakari.com/) Site with Japanese music
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
@@ -1165,15 +1167,11 @@ premium services
 
 ### Music Downloading
 
-- [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [Deemix](https://deemix.app/) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
 - [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
-- [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
-- [YouTube to MP3](https://ytformp3.com/)
 
 
 ### Spotify
