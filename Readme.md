@@ -786,7 +786,6 @@ premium services
 - [Best Free Streaming](https://www.bestfreestreaming.org/) A site that rates streaming services.
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
 - [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
-- [Mp4Hydra](https://mp4hydra.org) Unique design, HD server with additional hosts.
 - [Watchroo](https://watchroo.com) Unique design, HD server with additional hosts, built-in forum, watchlists and SSO login.
 
 
