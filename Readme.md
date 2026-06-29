@@ -784,23 +784,9 @@ premium services
 #### HD Streaming
 
 - [Best Free Streaming](https://www.bestfreestreaming.org/) A site that rates streaming services.
-- [M4UFree.tv](https://ww1.m4ufree.tv/) Unique design, HD server with backup and additional hosts
-- [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
-- [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
-- [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
-- [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
 - [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
-- [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
-- [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
-- [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
-- [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
-- [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
-- [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
-- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
-- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
-- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
-- [Mp4Hydra](https://mp4hydra.org) Unique design, HD server with additional hosts.
+- [Yes! Movies](https://ww2.yesmovies.ag/) Basic streaming site layout, HD server with additional hosts
 - [Watchroo](https://watchroo.com) Unique design, HD server with additional hosts, built-in forum, watchlists and SSO login.
 
 
@@ -1082,7 +1068,7 @@ premium services
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
 - [RepackLab](http://repacklab.com/) GamesDl Website With Fastest Downloads, Latest Updates and Vast Library
-- [SteamOra](http://steamora.net/)  SteamOra is your trusted source for pre-installed Steam games no setup, no limits, just extract and play. Free games made simple. 
+- [SteamOra](http://steamora.net/)  SteamOra is your trusted source for pre-installed Steam games no setup, no limits, just extract and play. Free games made simple.
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
@@ -1122,7 +1108,7 @@ premium services
 - [RetroMania.gg](https://retromania.gg/)
 - [CDRomance](https://cdromance.org/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [r/Roms](https://www.reddit.com/r/Roms/) For ROM related discussions.
-- [SwitchGamesMall](https://www.switchgamesmall.icu/) Download Free Switch Roms (more than 11K+). 
+- [SwitchGamesMall](https://www.switchgamesmall.icu/) Download Free Switch Roms (more than 11K+).
 
 
 ### Console Games
