@@ -394,6 +394,7 @@ for any IP address.
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
 - [BTDigg](https://btdig.com/) BTDigg is a popular BitTorrent DHT search engine.
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+- [Tracker Checker](https://www.torrenttrackerslist.com/tools/tracker-checker) - Paste any UDP/HTTP/HTTPS/WSS tracker URLs and get live uptime + latency. Backed by a daily-verified list of 300+ public trackers.
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.to/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
