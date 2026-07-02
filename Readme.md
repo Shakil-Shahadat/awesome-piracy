@@ -865,16 +865,11 @@ premium services
 
 - [Einthusan](https://einthusan.tv/intro/) Foreign
 - [Dramago](http://www.dramago.com/) Drama movies/series
-- [WatchAsian](https://www2.watchasian.co/) Foreign
-- [Layarkaca](http://layarkaca21.ru/) Foreign
 - [DramaCool](http://www1.dramacoolfirst.com/) Foreign
 - [Daxiv Video](https://daxiv.com/) Primarily Chinese content
 - [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
 - [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
 - [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
-- [Rulu](https://www.rulu.co/) YouTube Red series
-- [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Archive.org](https://archive.org/) Old movies
 
 
