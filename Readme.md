@@ -1297,7 +1297,7 @@ premium services
     - [Kavita](https://www.kavitareader.com/) Kavita is a fast, feature rich, cross platform reading server.
 
 - Downloads:
-    - [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
+    - [AudioBook Bay](https://audiobookbay.lu/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
     - [AudioBB.com](https://audiobb.com/) Free audiobook downloads.
     - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye.
 
