@@ -431,6 +431,10 @@ for any IP address.
 - [OpenTrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing.
 - [Getting into Private Trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the r/trackers wiki.
 
+### I2P trackers
+- [tracker2.postman.i2p](http://tracker2.postman.i2p/)
+- [simp.i2p](http://simp.i2p/)
+- [notbob.i2p](http://notbob.i2p/cgi-bin/defcon.cgi?category=tracker)
 
 ### Torrent Clients
 
