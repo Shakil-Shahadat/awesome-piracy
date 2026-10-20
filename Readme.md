@@ -1066,6 +1066,7 @@ premium services
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
 - [RepackLab](http://repacklab.com/) GamesDl Website With Fastest Downloads, Latest Updates and Vast Library
 - [SteamOra](http://steamora.net/)  SteamOra is your trusted source for pre-installed Steam games no setup, no limits, just extract and play. Free games made simple.
+- [SteamDownload / Steam图书馆](https://steamdownload.cn/) (Chinese UI, en/ja/fr/de available) Free PC & Switch games via Quark / Baidu / Xunlei / UC cloud drives and magnet links, with a game request board. Catalogue mirror: [awesome-game-resources](https://github.com/lovelax1998/awesome-game-resources)
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
